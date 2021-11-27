@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d1e6dd7-9f28-48ba-845a-7a8ff7073a81": {
+      "ProjectGuid": "8d1e6dd7-9f28-48ba-845a-7a8ff7073a81",
+      "DisplayName": "GestoresApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
